@@ -1,0 +1,15 @@
+
+.container{
+    border: 2px solid black;
+    background-color: aliceblue;
+    display: grid ;
+  place-items: center ;
+}
+
+.headline{
+    margin-top: 1rem;
+}
+
+.btn{
+ margin-top: 1rem;
+}
